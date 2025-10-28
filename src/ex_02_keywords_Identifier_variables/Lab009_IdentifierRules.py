@@ -1,0 +1,2 @@
+long_variable_name_is_created_here = "Good Day"
+print(long_variable_name_is_created_here)
