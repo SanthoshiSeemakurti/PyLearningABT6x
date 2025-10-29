@@ -4,22 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c356dfad-113f-49db-8f92-75647ab5b8d1" name="Changes" comment="Python basics">
-      <change afterPath="$PROJECT_DIR$/src/ex_02_keywords_Identifier_variables/Lab007_Variables_Names.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_keywords_Identifier_variables/Lab008_DynamicalTyped.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_keywords_Identifier_variables/Lab009_IdentifierRules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_keywords_Identifier_variables/Lab010_maths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Switch_Match/labSwitch001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/Lab0  for_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/task_16Oct/API_Response.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/task_16Oct/ignore_spaces_and_ignore_Case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/task_16Oct/login_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/task_16Oct/page_loading_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/task_18oct/API_response_retry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/task_18oct/factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/task_18oct/pageLoadingCheck_whileLoop.py" afterDir="false" />
+    <list default="true" id="c356dfad-113f-49db-8f92-75647ab5b8d1" name="Changes" comment="Python task 16 and 18th oct">
+      <change afterPath="$PROJECT_DIR$/task/task_28oct/evenNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/task_28oct/printNumbers_10to1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/task_28oct/skipNumbersDivisibleBy3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Python_Basics/task03.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/circle_Area.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/circle_Area.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/circle_Area.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/task_16Oct/API_Response.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/task_16Oct/API_Response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/task_16Oct/ignore_spaces_and_ignore_Case.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/task_16Oct/ignore_spaces_and_ignore_Case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/task_16Oct/login_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/task_16Oct/login_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/task_16Oct/page_loading_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/task_16Oct/page_loading_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/task_18oct/API_response_retry.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/task_18oct/API_response_retry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/task_18oct/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/task_18oct/factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task/task_18oct/pageLoadingCheck_whileLoop.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/task_18oct/pageLoadingCheck_whileLoop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +42,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:SanthoshiSeemakurti/PyLearningABT.git&quot;,
-    &quot;accountId&quot;: &quot;80f9b019-f73d-443a-874a-3ca141e35226&quot;
+    &quot;url&quot;: &quot;https://github.com/SanthoshiSeemakurti/PyLearningABT6x&quot;,
+    &quot;accountId&quot;: &quot;1aa5206a-a5e3-47b9-b4b3-6bf748bbdc3a&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -70,11 +67,14 @@
     "Python.Lab009_IdentifierRules.executor": "Run",
     "Python.Lab010_maths.executor": "Run",
     "Python.circle_Area.executor": "Run",
+    "Python.evenNumbers.executor": "Run",
     "Python.factorial.executor": "Run",
     "Python.labSwitch001.executor": "Run",
     "Python.login_check.executor": "Run",
     "Python.pageLoadingCheck_whileLoop.executor": "Run",
     "Python.page_loading_check.executor": "Run",
+    "Python.printNumbers_10to1.executor": "Run",
+    "Python.skipNumbersDivisibleBy3.executor": "Run",
     "Python.task03.executor": "Run",
     "Python.task04.1.executor": "Run",
     "Python.task_04.2.executor": "Run",
@@ -95,11 +95,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/task/task_28oct" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/task/task_18oct" />
       <recent name="$PROJECT_DIR$/src/task/task_16Oct" />
       <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/ex_01_Python_Basics/task" />
-      <recent name="$PROJECT_DIR$/src/ex_01_Python_Basics" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -135,7 +135,8 @@
       <workItem from="1761676580761" duration="78000" />
       <workItem from="1761676736052" duration="173000" />
       <workItem from="1761676936191" duration="1120000" />
-      <workItem from="1761682890119" duration="871000" />
+      <workItem from="1761682890119" duration="4504000" />
+      <workItem from="1761772833509" duration="2152000" />
     </task>
     <task id="LOCAL-00001" summary="Python basics">
       <option name="closed" value="true" />
@@ -185,7 +186,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760462374213</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Python basics">
+      <option name="closed" value="true" />
+      <created>1761683781744</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761683781744</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Python task 16 and 18th oct">
+      <option name="closed" value="true" />
+      <created>1761684165479</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761684165479</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,11 +233,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Python basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python basics" />
+    <MESSAGE value="Python task 16 and 18th oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python task 16 and 18th oct" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyLearningABT6x$Lab010_maths.coverage" NAME="Lab010_maths Coverage Results" MODIFIED="1760578001777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_02_keywords_Identifier_variables" />
     <SUITE FILE_PATH="coverage/PyLearningABT6x$Lab008_DynamicalTyped.coverage" NAME="Lab008_DynamicalTyped Coverage Results" MODIFIED="1760577593441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_02_keywords_Identifier_variables" />
+    <SUITE FILE_PATH="coverage/PyLearningABT6x$printNumbers_10to1.coverage" NAME="printNumbers_10to1 Coverage Results" MODIFIED="1761774869702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task/task_28oct" />
     <SUITE FILE_PATH="coverage/PyLearningABT6x$login_check.coverage" NAME="login_check Coverage Results" MODIFIED="1761328824017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/task/task_16Oct" />
     <SUITE FILE_PATH="coverage/PyLearningABT6x$labSwitch001.coverage" NAME="labSwitch001 Coverage Results" MODIFIED="1761602205896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_06_Switch001" />
     <SUITE FILE_PATH="coverage/PyLearningABT6x$Lab003Py_print.coverage" NAME="Lab003Py_print Coverage Results" MODIFIED="1760147807738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_01_Python_Basics" />
@@ -229,6 +248,8 @@
     <SUITE FILE_PATH="coverage/PyLearningABT6x$circle_Area.coverage" NAME="circle_Area Coverage Results" MODIFIED="1761329082667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/task" />
     <SUITE FILE_PATH="coverage/PyLearningABT6x$page_loading_check.coverage" NAME="page_loading_check Coverage Results" MODIFIED="1761330043578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/task/task_16Oct" />
     <SUITE FILE_PATH="coverage/PyLearningABT6x$pageLoadingCheck_whileLoop.coverage" NAME="pageLoadingCheck_whileLoop Coverage Results" MODIFIED="1761600881528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/task/task_18oct" />
+    <SUITE FILE_PATH="coverage/PyLearningABT6x$evenNumbers.coverage" NAME="evenNumbers Coverage Results" MODIFIED="1761774414133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task/task_28oct" />
+    <SUITE FILE_PATH="coverage/PyLearningABT6x$skipNumbersDivisibleBy3.coverage" NAME="skipNumbersDivisibleBy3 Coverage Results" MODIFIED="1761775017394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task/task_28oct" />
     <SUITE FILE_PATH="coverage/PyLearningABT6x$task04_1.coverage" NAME="task04.1 Coverage Results" MODIFIED="1760726891348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/task" />
     <SUITE FILE_PATH="coverage/PyLearningABT6x$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1761601364804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/task/task_18oct" />
     <SUITE FILE_PATH="coverage/PyLearningABT6x$Lab007_Variables_Names.coverage" NAME="Lab007_Variables_Names Coverage Results" MODIFIED="1760575767341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_02_keywords_Identifier_variables" />
