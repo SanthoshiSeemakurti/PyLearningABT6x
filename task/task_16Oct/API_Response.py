@@ -12,4 +12,4 @@ if API_Response == "200":
 elif API_Response=="404":
     print(" ❌ The requested resource could not be found on the server.")
 else:
-    print("Other value is entered! Enter valid API response code from your test script!")
+    print("⚠️ Other value is entered! Enter valid API response code from your test script!")
