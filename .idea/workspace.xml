@@ -4,21 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c356dfad-113f-49db-8f92-75647ab5b8d1" name="Changes" comment="Python task 28th oct">
-      <change afterPath="$PROJECT_DIR$/.idea/PyLearningABT6x.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab060_built_in.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab061_example_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab062_example_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab063_Type2_Function_Parameter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab064_type3_Function_Return.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loops/Lab0075_Local_variable.py" afterDir="false" />
+    <list default="true" id="c356dfad-113f-49db-8f92-75647ab5b8d1" name="Changes" comment="until nov 4th task">
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab068_User_Input_Pass_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab069_Function_Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab070_Function_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab071_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab072_Infinite_Args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab079_Decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab080_Decorators1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab081_WithOutDecor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab082_real_decor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab083_Decor2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab084_IQ_Leap_Year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11_Type_Conversion/Lab_087_type_Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab090_multiply.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab091_add2numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab093_add3numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab094_User_Input_Odd_Even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab095_exponential.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab_092_multiply2Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13_list/Lab096_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13_list/Lab097_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13_list/Lab098_pop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab_099_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab_100_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab_101_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_set/Lab_102_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_set/Lab_103_set_union_intersection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_set/Lab_104_sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_set/Lab_105_extra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_set/Lab_105_set_IQ.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/task/task_01Nov/ApiResponseFunctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/task_04Nov/rightTriangle_forLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/task_30Oct/squareOfTheNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/task_30Oct/typesOfTriangle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab002Py_Comment.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab002Py_Comment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/task_16Oct/API_Response.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/task_16Oct/API_Response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/Lab0075_Local_variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab0075_Local_variable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/task_04Nov/rightTriangle_forLoop.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/task_04Nov/rightTriangle_forLoop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/task_30Oct/typesOfTriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/task_30Oct/typesOfTriangle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,8 +93,37 @@
     "Python.Lab062_example_functions.executor": "Run",
     "Python.Lab063_Function_Parameter.executor": "Run",
     "Python.Lab064_type3_Function_Return.executor": "Run",
+    "Python.Lab068_User_Input_Pass_Function.executor": "Run",
+    "Python.Lab069_Function_Types.executor": "Run",
+    "Python.Lab070_Function_IQ.executor": "Run",
+    "Python.Lab079_Decorators.executor": "Run",
+    "Python.Lab080_Decorators1.executor": "Run",
+    "Python.Lab081_WithOutDecor.executor": "Run",
+    "Python.Lab082_real_decor.executor": "Run",
+    "Python.Lab083_Decor2.executor": "Run",
+    "Python.Lab084_IQ_Leap_Year.executor": "Run",
+    "Python.Lab090_Lambda.executor": "Run",
+    "Python.Lab091_Lambda1.executor": "Run",
+    "Python.Lab093_Lambda3.executor": "Run",
+    "Python.Lab094_User_Input_Odd_Even.executor": "Run",
+    "Python.Lab095_exponential.executor": "Run",
+    "Python.Lab096_List.executor": "Run",
+    "Python.Lab097_List.executor": "Run",
+    "Python.Lab098_pop.executor": "Run",
+    "Python.Lab_071_IQ.executor": "Run",
+    "Python.Lab_087_type_Conversion.executor": "Run",
+    "Python.Lab_092_Lambda2.executor": "Run",
+    "Python.Lab_099_Tuple.executor": "Run",
+    "Python.Lab_100_Tuple.executor": "Run",
+    "Python.Lab_101_Tuple.executor": "Run",
+    "Python.Lab_102_set.executor": "Run",
+    "Python.Lab_103_set_union_intersection.executor": "Run",
+    "Python.Lab_104_sets.executor": "Run",
+    "Python.Lab_105_extra.executor": "Run",
+    "Python.Lab_105_set_IQ.executor": "Run",
     "Python.circle_Area.executor": "Run",
     "Python.evenNumbers.executor": "Run",
+    "Python.ex_13_List.executor": "Run",
     "Python.factorial.executor": "Run",
     "Python.labSwitch001.executor": "Run",
     "Python.login_check.executor": "Run",
@@ -99,18 +148,18 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Python",
+    "settings.editor.selected.configurable": "copyright",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ex_14_Tuple" />
+      <recent name="$PROJECT_DIR$/src/ex_13_list" />
+      <recent name="$PROJECT_DIR$/src/ex_08_Functions" />
       <recent name="$PROJECT_DIR$/task/task_01Nov" />
       <recent name="$PROJECT_DIR$/task/task_30Oct" />
-      <recent name="$PROJECT_DIR$/task/task_28oct" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/task/task_18oct" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -223,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761775100661</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="until nov 4th task">
+      <option name="closed" value="true" />
+      <created>1762829259084</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1762829259084</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,7 +313,8 @@
     <MESSAGE value="Python basics" />
     <MESSAGE value="Python task 16 and 18th oct" />
     <MESSAGE value="Python task 28th oct" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python task 28th oct" />
+    <MESSAGE value="until nov 4th task" />
+    <option name="LAST_COMMIT_MESSAGE" value="until nov 4th task" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyLearningABT6x$Lab010_maths.coverage" NAME="Lab010_maths Coverage Results" MODIFIED="1760578001777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_02_keywords_Identifier_variables" />
