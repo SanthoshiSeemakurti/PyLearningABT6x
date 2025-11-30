@@ -4,41 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c356dfad-113f-49db-8f92-75647ab5b8d1" name="Changes" comment="until nov 4th task">
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab068_User_Input_Pass_Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab069_Function_Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab070_Function_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab071_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab072_Infinite_Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab079_Decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab080_Decorators1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab081_WithOutDecor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab082_real_decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab083_Decor2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decorators/Lab084_IQ_Leap_Year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11_Type_Conversion/Lab_087_type_Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab090_multiply.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab091_add2numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab093_add3numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab094_User_Input_Odd_Even.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab095_exponential.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_12_Lambda_Function/Lab_092_multiply2Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_list/Lab096_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_list/Lab097_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_list/Lab098_pop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab_099_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab_100_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab_101_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_set/Lab_102_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_set/Lab_103_set_union_intersection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_set/Lab_104_sets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_set/Lab_105_extra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_set/Lab_105_set_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/task_01Nov/ApiResponseFunctions.py" afterDir="false" />
+    <list default="true" id="c356dfad-113f-49db-8f92-75647ab5b8d1" name="Changes" comment="Functions,Decorators,list,tuples,set">
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filtes_List/Lab_Filter_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filtes_List/Lab_Filter_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filtes_List/Lab_Filter_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filtes_List/Lab_Map_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filtes_List/Lab_Map_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filtes_List/Lab_Map_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab_106_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab_107_Dict_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab_108_Dict_Mul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab_109_Dict_Mul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab_110_Dict_Concepts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab_111_Dict_Frequency_String_Char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab_112_Dict_difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab_113_Dict_IQ_Max_Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab_114_Dict_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab_115_Dict_Dup_Keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab_115_Dict_IQ_Dup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dictionary/Lab_116_IQ_Count_Vowel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loops/Lab0075_Local_variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab0075_Local_variable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/task_04Nov/rightTriangle_forLoop.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/task_04Nov/rightTriangle_forLoop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/task_30Oct/typesOfTriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/task_30Oct/typesOfTriangle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +95,10 @@
     "Python.Lab096_List.executor": "Run",
     "Python.Lab097_List.executor": "Run",
     "Python.Lab098_pop.executor": "Run",
+    "Python.Lab_01_Filter.executor": "Run",
+    "Python.Lab_01_Map.executor": "Run",
+    "Python.Lab_02_Filter.executor": "Run",
+    "Python.Lab_02_Map.executor": "Run",
     "Python.Lab_071_IQ.executor": "Run",
     "Python.Lab_087_type_Conversion.executor": "Run",
     "Python.Lab_092_Lambda2.executor": "Run",
@@ -121,6 +110,20 @@
     "Python.Lab_104_sets.executor": "Run",
     "Python.Lab_105_extra.executor": "Run",
     "Python.Lab_105_set_IQ.executor": "Run",
+    "Python.Lab_106_Dict.executor": "Run",
+    "Python.Lab_106_Map.executor": "Run",
+    "Python.Lab_107_Dict.executor": "Run",
+    "Python.Lab_109_Dict_Mul.executor": "Run",
+    "Python.Lab_110_Dict.executor": "Run",
+    "Python.Lab_111_Dict_Frequency_String_Char.executor": "Run",
+    "Python.Lab_112_Dict_difference.executor": "Run",
+    "Python.Lab_113_Dict_IQ_Max_Values.executor": "Run",
+    "Python.Lab_114_Dict_IQ.executor": "Run",
+    "Python.Lab_115_Dict_Dup_Keys.executor": "Run",
+    "Python.Lab_115_Dict_IQ_Dup.executor": "Run",
+    "Python.Lab_Filter_03.executor": "Run",
+    "Python.Lan_01_Filter.executor": "Run",
+    "Python.Lan_04_Map.executor": "Run",
     "Python.circle_Area.executor": "Run",
     "Python.evenNumbers.executor": "Run",
     "Python.ex_13_List.executor": "Run",
@@ -143,6 +146,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/shravankumarkada/PycharmProjects/PyLearningABT6x/src/ex_17_Dictionary",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -154,12 +158,15 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ex_17_Dictionary" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/ex_14_Tuple" />
       <recent name="$PROJECT_DIR$/src/ex_13_list" />
       <recent name="$PROJECT_DIR$/src/ex_08_Functions" />
       <recent name="$PROJECT_DIR$/task/task_01Nov" />
-      <recent name="$PROJECT_DIR$/task/task_30Oct" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -280,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762829259084</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Functions,Decorators,list,tuples,set">
+      <option name="closed" value="true" />
+      <created>1764010778214</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1764010778215</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,7 +329,8 @@
     <MESSAGE value="Python task 16 and 18th oct" />
     <MESSAGE value="Python task 28th oct" />
     <MESSAGE value="until nov 4th task" />
-    <option name="LAST_COMMIT_MESSAGE" value="until nov 4th task" />
+    <MESSAGE value="Functions,Decorators,list,tuples,set" />
+    <option name="LAST_COMMIT_MESSAGE" value="Functions,Decorators,list,tuples,set" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyLearningABT6x$Lab010_maths.coverage" NAME="Lab010_maths Coverage Results" MODIFIED="1760578001777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_02_keywords_Identifier_variables" />
