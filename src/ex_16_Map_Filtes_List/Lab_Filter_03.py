@@ -1,9 +1,9 @@
 # print non-empty strings in a given list
 
-names = ["QA", "", "Test", "Data", ""]
+names = ["QA", " ", "Test", "Data", ""]
 
 def non_empty(x):
-    if x != "":
+    if x != " ":
         return True
     return None
 
